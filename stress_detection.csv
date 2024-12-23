@@ -1,0 +1,18 @@
+index,text,stress_label
+1,"""I can't handle this anymore. I'm so stressed out at work!""",1
+2,"""Today was great, everything went smoothly!""",0
+3,"""I'm feeling overwhelmed with everything going on in my life.""",1
+4,"""Just had an amazing vacation. Feeling relaxed!""",0
+5,"""I have too much work, I can't focus anymore, my anxiety is high.""",1
+6,"""Life has been amazing lately, so grateful!""",0
+7,"""Everything’s going fine, I’m just a bit tired today.""",0
+8,"""I’m feeling overwhelmed by everything happening, I don’t know what to do.""",1
+9,"""I have so much work to do, I don't even know where to start!""",1
+10,"""I’m feeling really anxious about this meeting. Hope it goes well.""",1
+11,"""I’m fine, just tired but nothing too stressful.""",0
+12,"""I’m just trying to stay calm, but it’s hard with everything happening.""",1
+13,"""Looking forward to the weekend to recharge.""",0
+14,"	""I can’t handle this right now, it’s all just too much.""",1
+15,"""Today was such a great day! Got everything done and more!""",0
+16,"""I'm so overwhelmed, I can't focus on anything. This is exhausting.""",1
+17,"""Feeling pretty good, not much to complain about today.""",0
